@@ -31,8 +31,8 @@ This project demonstrates a complete ASIC RTL-to-GDSII physical design flow for 
 ### Trial #1 - Power Ring Configuration (250 MHz)
 
 #### ⚡ IR Drop Analysis - Trial #1
-![IR Drop Map Trial 1](![WhatsApp Image 2025-11-03 at 19 56 37_ee009535](https://github.com/user-attachments/assets/8909c9ff-6d8a-4e08-b255-2a643f474117)
-)
+![IR Drop Map Trial 1](path/to/figur![WhatsApp Image 2025-11-03 at 20 25 47_07f7c319](https://github.com/user-attachments/assets/91163ab8-f64c-4ff8-bdbd-07fcaa08c1b2)
+e2.png)
 *Shows voltage drop distribution with power ring configuration through metal 10, 9 and 7, 8, maintaining IR drop below 2% threshold.*
 
 #### 📐 Cell Density Analysis - Trial #1
@@ -55,19 +55,23 @@ igure7.png)
 ### Trial #2 - Mesh-Based Power Distribution (500 MHz) ⭐ **Optimal Design**
 
 #### ⚡ IR Drop Analysis - Trial #2
-![IR Drop Map Trial 2](path/to/figure2.png)
+![IR Drop Map Trial 1](![WhatsApp Image 2025-11-03 at 19 56 37_ee009535](https://github.com/user-attachments/assets/8909c9ff-6d8a-4e08-b255-2a643f474117)
+)
 *Demonstrates improved voltage distribution with mesh-based power strategy and increased metal widths, achieving better power integrity.*
 
 #### 📐 Cell Density Analysis - Trial #2
-![Cell Density Map Trial 2](path/to/figure4.png)
+![Cell Density Map Trial 2](path/![WhatsApp Image 2025-11-03 at 20 27 50_5091c996](https://github.com/user-attachments/assets/56bc2e69-c983-4abe-9ec6-4143dd22b34d)
+to/figure4.png)
 *Displays optimized cell placement with 37769.34 μm² area supporting 2× frequency improvement with minimal congestion.*
 
 #### 📌 Pin Density Analysis - Trial #2
-![Pin Density Map Trial 2](path/to/figure6.png)
+![Pin Density Map Trial 2](path/to/fig![WhatsApp Image 2025-11-03 at 20 28 18_9bc0a27d](https://github.com/user-attachments/assets/09e73dfb-da92-4d5b-8c3b-f7cdfd9a8959)
+ure6.png)
 *Confirms maintained pin placement strategy on metal4 and metal5 layers with high-activity regions for routing optimization.*
 
 #### 🕒 Clock Tree Synthesis (CTS) - Trial #2
-![CTS Routing Trial 2](path/to/figure8.png)
+![CTS Routing Trial 2](path/to/fi![WhatsApp Image 2025-11-03 at 20 27 01_f6f036c7](https://github.com/user-attachments/assets/fe2e8afd-7dbe-4530-9261-ebaf6fce837e)
+gure8.png)
 *Displays optimized CTS with max fanout=5, max transition=0.3ns, buffer size 8, enabling 500 MHz operation with balanced delay.*
 
 ---
