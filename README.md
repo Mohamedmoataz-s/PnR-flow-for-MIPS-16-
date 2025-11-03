@@ -82,7 +82,7 @@ gure8.png)
 - **Equivalence Checking**: Formal verification using Synopsys Formality
 - **Power Analysis**: Vector-based dynamic power and static leakage analysis
 - **Signal Integrity**: Crosstalk, electromigration, and antenna checks
-![Sign-Off](path/to/fi![WhatsApp Image 2025-09-04 at 05 02 02_c97f6b9e](https://github.com/user-attachments/assets/43b828fe-6da4-437a-8d95-2a37057717bb)
+(path/to/fi![WhatsApp Image 2025-09-04 at 05 02 02_c97f6b9e](https://github.com/user-attachments/assets/43b828fe-6da4-437a-8d95-2a37057717bb)
 )
 gure8.png)
 ### Critical Sign-Off Achievements
